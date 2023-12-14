@@ -1,0 +1,180 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/gray">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="12"
+        android:columnCount="1"
+        android:rowCount="4">
+        <FrameLayout
+            android:id="@+id/frame1"
+            android:layout_width="match_parent"
+            android:layout_height="0sp"
+            android:layout_rowWeight="1"
+            android:layout_margin="5sp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/frame2"
+            android:layout_width="match_parent"
+            android:layout_height="0sp"
+            android:layout_rowWeight="1"
+            android:layout_margin="5sp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/frame3"
+            android:layout_width="match_parent"
+            android:layout_height="0sp"
+            android:layout_rowWeight="1"
+            android:layout_margin="5sp">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/frame4"
+            android:layout_width="match_parent"
+            android:layout_height="0sp"
+            android:layout_rowWeight="1"
+            android:layout_margin="5sp">
+
+        </FrameLayout>
+
+    </GridLayout>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="3"
+        android:columnCount="4"
+        android:rowCount="1">
+        <ImageButton
+            android:id="@+id/lay1"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="1"
+            android:background="@android:color/transparent"
+            android:scaleType="fitCenter"
+            android:src="@drawable/lay"/>
+        <ImageButton
+            android:id="@+id/lay2"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="1"
+            android:background="@android:color/transparent"
+            android:scaleType="fitCenter"
+            android:src="@drawable/lay"/>
+        <ImageButton
+            android:id="@+id/lay3"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="1"
+            android:background="@android:color/transparent"
+            android:scaleType="fitCenter"
+            android:src="@drawable/lay"/>
+        <ImageButton
+            android:id="@+id/lay4"
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="1"
+            android:background="@android:color/transparent"
+            android:scaleType="fitCenter"
+            android:src="@drawable/lay"/>
+    </GridLayout>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="2"
+        android:columnCount="3"
+        android:rowCount="1"
+        android:layout_marginLeft="10sp"
+        android:layout_marginBottom="10sp"
+        android:layout_marginRight="10sp">
+
+        <LinearLayout
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="1"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/clearAllBtn"
+                android:layout_width="match_parent"
+                android:layout_height="0sp"
+                android:layout_weight="3"
+                android:background="@android:color/transparent"
+                android:src="@drawable/clear1"
+                android:scaleType="fitCenter"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0sp"
+                android:layout_weight="2"
+                android:text="清除全部"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="1"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/comfireBtn"
+                android:layout_width="match_parent"
+                android:layout_height="0sp"
+                android:layout_weight="3"
+                android:background="@android:color/transparent"
+                android:src="@drawable/confire"
+                android:scaleType="fitCenter"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0sp"
+                android:layout_weight="2"
+                android:text="确认"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0sp"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="1"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/clearOneBtn"
+                android:layout_width="match_parent"
+                android:layout_height="0sp"
+                android:layout_weight="3"
+                android:background="@android:color/transparent"
+                android:src="@drawable/clear3"
+                android:scaleType="fitCenter"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0sp"
+                android:layout_weight="2"
+                android:text="删除"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+    </GridLayout>
+
+</LinearLayout>

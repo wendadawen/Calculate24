@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#EEEEEE">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="250sp"
+        android:layout_gravity="bottom"
+        android:background="#EF3"
+        android:gravity="center"
+        android:text="Calculate 24"
+        android:textSize="60sp" />
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="match_parent"
+        android:layout_height="100sp"
+        android:gravity="center"
+        android:text="开始"
+        android:textSize="60sp" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="match_parent"
+        android:layout_height="100sp"
+
+        android:gravity="center"
+        android:text="退出"
+        android:textSize="60sp" />
+
+</LinearLayout>

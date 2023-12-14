@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <id name="club1">club1</id>-->
+<!--    <id name="club2">club2</id>-->
+<!--    <id name="club3">club3</id>-->
+<!--    <id name="club4">club4</id>-->
+<!--    <id name="club5">club5</id>-->
+<!--    <id name="club6">club6</id>-->
+<!--    <id name="club7">club7</id>-->
+<!--    <id name="club8">club8</id>-->
+<!--    <id name="club9">club9</id>-->
+<!--    <id name="club10">club10</id>-->
+<!--    <id name="club11">club11</id>-->
+<!--    <id name="club12">club12</id>-->
+<!--    <id name="club13">club13</id>-->
+
+<!--    <id name="heart1">heart1</id>-->
+<!--    <id name="heart2">heart2</id>-->
+<!--    <id name="heart3">heart3</id>-->
+<!--    <id name="heart4">heart4</id>-->
+<!--    <id name="heart5">heart5</id>-->
+<!--    <id name="heart6">heart6</id>-->
+<!--    <id name="heart7">heart7</id>-->
+<!--    <id name="heart8">heart8</id>-->
+<!--    <id name="heart9">heart9</id>-->
+<!--    <id name="heart10">heart10</id>-->
+<!--    <id name="heart11">heart11</id>-->
+<!--    <id name="heart12">heart12</id>-->
+<!--    <id name="heart13">heart13</id>-->
+
+<!--    <id name="diamond1">diamond1</id>-->
+<!--    <id name="diamond2">diamond2</id>-->
+<!--    <id name="diamond3">diamond3</id>-->
+<!--    <id name="diamond4">diamond4</id>-->
+<!--    <id name="diamond5">diamond5</id>-->
+<!--    <id name="diamond6">diamond6</id>-->
+<!--    <id name="diamond7">diamond7</id>-->
+<!--    <id name="diamond8">diamond8</id>-->
+<!--    <id name="diamond9">diamond9</id>-->
+<!--    <id name="diamond10">diamond10</id>-->
+<!--    <id name="diamond11">diamond11</id>-->
+<!--    <id name="diamond12">diamond12</id>-->
+<!--    <id name="diamond13">diamond13</id>-->
+
+<!--    <id name="spade1">spade1</id>-->
+<!--    <id name="spade2">spade2</id>-->
+<!--    <id name="spade3">spade3</id>-->
+<!--    <id name="spade4">spade4</id>-->
+<!--    <id name="spade5">spade5</id>-->
+<!--    <id name="spade6">spade6</id>-->
+<!--    <id name="spade7">spade7</id>-->
+<!--    <id name="spade8">spade8</id>-->
+<!--    <id name="spade9">spade9</id>-->
+<!--    <id name="spade10">spade10</id>-->
+<!--    <id name="spade11">spade11</id>-->
+<!--    <id name="spade12">spade12</id>-->
+<!--    <id name="spade13">spade13</id>-->
+
+    <id name="club1"/>
+    <id name="club2"/>
+    <id name="club3"/>
+    <id name="club4"/>
+    <id name="club5"/>
+    <id name="club6"/>
+    <id name="club7"/>
+    <id name="club8"/>
+    <id name="club9"/>
+    <id name="club10"></id>
+    <id name="club11"></id>
+    <id name="club12"></id>
+    <id name="club13"></id>
+
+    <id name="heart1"></id>
+    <id name="heart2"></id>
+    <id name="heart3"></id>
+    <id name="heart4"></id>
+    <id name="heart5"></id>
+    <id name="heart6"></id>
+    <id name="heart7"></id>
+    <id name="heart8"></id>
+    <id name="heart9"></id>
+    <id name="heart10"></id>
+    <id name="heart11"></id>
+    <id name="heart12"></id>
+    <id name="heart13"></id>
+
+    <id name="diamond1"></id>
+    <id name="diamond2"></id>
+    <id name="diamond3"></id>
+    <id name="diamond4"></id>
+    <id name="diamond5"></id>
+    <id name="diamond6"></id>
+    <id name="diamond7"></id>
+    <id name="diamond8"></id>
+    <id name="diamond9"></id>
+    <id name="diamond10"></id>
+    <id name="diamond11"></id>
+    <id name="diamond12"></id>
+    <id name="diamond13"></id>
+
+    <id name="spade1"></id>
+    <id name="spade2"></id>
+    <id name="spade3"></id>
+    <id name="spade4"></id>
+    <id name="spade5"></id>
+    <id name="spade6"></id>
+    <id name="spade7"></id>
+    <id name="spade8"></id>
+    <id name="spade9"></id>
+    <id name="spade10"></id>
+    <id name="spade11"></id>
+    <id name="spade12" />
+    <id name="spade13"></id>
+
+
+</resources>
